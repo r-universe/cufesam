@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "fasterElasticNet"]
+	path = fasterElasticNet
+	url = https://github.com/cufesam/elastic-net
+	shallow = true
+	registered = true
